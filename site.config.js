@@ -1,27 +1,27 @@
 module.exports = {
   // where it all starts -- the site's root Notion page (required)
-  rootNotionPageId: '6a76fdd9ec6d4ae2855aa790d620eec4',
+  rootNotionPageId: 'Bo-Hu-d0121c1709ca400fb7f524bf14722afd?pvs=4',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: '菜饼的技术博客',
+  name: '胡波的博客',
   domain: 'szufrank.top',
-  author: '菜饼同学',
+  author: '胡波',
 
   // open graph metadata (optional)
-  description: '菜饼同学: 专注硬核技术，校招打法，个人认知体系成长',
-  socialImageTitle: '菜饼同学',
+  description: '胡波的个人网站',
+  socialImageTitle: '胡波',
   socialImageSubtitle: 'Hello World! 👋',
 
   // social usernames (optional)
   twitter: null,
-  github: 'frankcbliu',
-  wechatPublicName: '菜饼不菜',
+  github: 'jokerhubo'
+  wechatPublicName: '胡波',
   wechatPublicURL: 'https://mp.weixin.qq.com/s?__biz=MzkxMzIyOTI1Mg==&mid=2247486027&idx=1&sn=2840f0b8cfdc982b9095dd18ec9892e5',
-  notionPublic: 'https://frankcbliu.notion.site/6a76fdd9ec6d4ae2855aa790d620eec4',
+  notionPublic: 'https://www.notion.so/hubo1991/Bo-Hu-d0121c1709ca400fb7f524bf14722afd?pvs=4',
 
   // default notion icon and cover images for site-wide consistency (optional)
   // page-specific values will override these site-wide defaults
@@ -43,7 +43,7 @@ module.exports = {
   isPreviewImageSupportEnabled: false,
 
   // set null to remove from year
-  copyRightFromYear: 2019,
+  copyRightFromYear: 2023,
 
   // map of notion page IDs to URL paths (optional)
   // any pages defined here will override their default URL paths
