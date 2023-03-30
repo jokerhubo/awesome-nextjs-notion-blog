@@ -14,7 +14,7 @@ module.exports = {
   // open graph metadata (optional)
   description: '胡波的个人网站',
   socialImageTitle: '胡波',
-  socialImageSubtitle: 'Hello World! 👋',
+  socialImageSubtitle: '欢迎各位的光临! 👋',
 
   // social usernames (optional)
   twitter: null,
